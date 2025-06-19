@@ -1,0 +1,16 @@
+{
+  "name": "alqtech-event",
+  "version": "1.0.0",
+  "description": "A webpage for an event organized by AlqTech in Oman, featuring responsive design and a purple theme.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build script not defined'"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "jquery": "^3.6.0"
+  },
+  "author": "AlqTech",
+  "license": "MIT"
+}
